@@ -1,6 +1,6 @@
 ---
 name: "🐞 Bug Report"
-about: "Report a bug or unexpected behavior in StockEase"
+about: "Report a bug or unexpected behavior in nim-tec"
 title: "🐞 [Bug]: "
 labels: ["bug"]
 assignees: []
@@ -8,7 +8,7 @@ assignees: []
 
 # 🐞 Bug Report
 
-Thank you for helping us improve **StockEase**!
+Thank you for helping us improve **nim-tec**!
 Please fill out the details below so we can understand and fix the issue quickly.
 
 ---
@@ -40,7 +40,7 @@ Please fill out the details below so we can understand and fix the issue quickly
 
 - **Operating System** (Windows, macOS, Linux, etc.):  
 - **Browser & Version** (Chrome, Firefox, Safari, etc.):  
-- **StockEase Version** (if known):  
+- **nim-tec Version** (if known):  
 - **Other Technical Details**:  
   <!-- e.g., relevant plugins, framework versions, or server environment -->
 </details>

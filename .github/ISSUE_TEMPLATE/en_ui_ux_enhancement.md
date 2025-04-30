@@ -1,6 +1,6 @@
 ---
 name: "🎨 UI/UX Enhancement"
-about: "Improve the design and user experience of StockEase"
+about: "Improve the design and user experience of nim-tec"
 title: "🎨 [UI/UX]: "
 labels: ["ui/ux"]
 assignees: []
@@ -8,7 +8,7 @@ assignees: []
 
 # 🎨 UI/UX Enhancement
 
-Use this issue to propose design ideas, UX improvements, or layout suggestions for **StockEase**.
+Use this issue to propose design ideas, UX improvements, or layout suggestions for **nim-tec**.
 
 ---
 
@@ -43,4 +43,4 @@ Use this issue to propose design ideas, UX improvements, or layout suggestions f
 - [ ] Medium
 - [ ] Low
 
-**Thank you for helping improve StockEase’s user experience!**
+**Thank you for helping improve nim-tec’s user experience!**

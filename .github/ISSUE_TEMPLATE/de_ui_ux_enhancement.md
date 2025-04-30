@@ -1,6 +1,6 @@
 ---
 name: "🎨 UI/UX Enhancement deutsch"
-about: "Verbessere das Design und die Benutzerfreundlichkeit von StockEase"
+about: "Verbessere das Design und die Benutzerfreundlichkeit von nim-tec"
 title: "🎨 [UI/UX]: "
 labels: ["ui/ux"]
 assignees: []
@@ -8,7 +8,7 @@ assignees: []
 
 # 🎨 UI/UX Enhancement
 
-Hier kannst du Design-Ideen, UX-Verbesserungen oder Layout-Vorschläge für **StockEase** einreichen.
+Hier kannst du Design-Ideen, UX-Verbesserungen oder Layout-Vorschläge für **nim-tec** einreichen.
 
 ---
 
@@ -46,4 +46,4 @@ Hier kannst du Design-Ideen, UX-Verbesserungen oder Layout-Vorschläge für **St
 - [ ] Mittel
 - [ ] Niedrig
 
-**Vielen Dank für deine Mithilfe, StockEase noch benutzerfreundlicher zu machen!** 
+**Vielen Dank für deine Mithilfe, nim-tec noch benutzerfreundlicher zu machen!** 

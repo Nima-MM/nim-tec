@@ -1,6 +1,6 @@
-# 🙌 Contributing to StockEase
+# 🙌 Contributing to nim-tec
 
-**Thank you** for your interest in contributing to StockEase! Your help makes this project better for everyone.
+**Thank you** for your interest in contributing to nim-tec! Your help makes this project better for everyone.
 
 ---
 
@@ -33,7 +33,7 @@ We use JHipster (April 2025 release) as our project scaffold.
 ## 🛠️ Project Structure
 
 ```bash
-stockease
+nim-tec
 ├── frontend (Vue.js, PrimeVue, TypeScript)
 ├── backend (Java Spring Boot)
 ├── docker-compose
@@ -45,7 +45,7 @@ stockease
 
 ## 💻 Development Setup
 
-Follow these steps to set up StockEase locally:
+Follow these steps to set up nim-tec locally:
 
 **Prerequisites:**
 - [JDK 17](https://adoptium.net/)
@@ -55,8 +55,8 @@ Follow these steps to set up StockEase locally:
 ### Clone and setup
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/stockease.git
-cd stockease
+git clone https://github.com/YOUR-USERNAME/nim-tec.git
+cd nim-tec
 ```
 Install further dependencies:
 ```bash
@@ -150,9 +150,9 @@ Maintain high-quality code:
 
 ## 📑 License
 
-StockEase is licensed under the MIT license. See [LICENSE](LICENSE) for details.
+nim-tec is licensed under the MIT license. See [LICENSE](LICENSE) for details.
 
 ---
 
-🎉 **Thank you for contributing to StockEase!** Let's build something amazing together.
+🎉 **Thank you for contributing to nim-tec!** Let's build something amazing together.
 

@@ -8,7 +8,7 @@ assignees: []
 
 # ⚙️ Technical Task
 
-Dieses Issue fokussiert sich auf **technische Aspekte** und Code-Umsetzungen in StockEase.
+Dieses Issue fokussiert sich auf **technische Aspekte** und Code-Umsetzungen in nim-tec.
 
 ---
 
@@ -48,4 +48,4 @@ Dieses Issue fokussiert sich auf **technische Aspekte** und Code-Umsetzungen in 
 ## 💡 Zusätzliche Hinweise
 <!-- Hier kannst du weitere Informationen, Links zu Dokumentationen oder API-Beschreibungen einfügen. -->
 
-**Vielen Dank für deine Mitarbeit an StockEase!**
+**Vielen Dank für deine Mitarbeit an nim-tec!**
