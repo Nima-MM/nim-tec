@@ -1,8 +1,8 @@
 
 export const links = [
   {
-    name: "Home",
-    hash: "#home",
+    name: "Hi👋",
+    hash: "#intro",
   },
   {
     name: "About",
@@ -17,8 +17,8 @@ export const links = [
     hash: "#skills",
   },
   {
-    name: "Chronologie",
-    hash: "#chronology",
+    name: "Werdegang",
+    hash: "#phases",
   },
   {
     name: "Kontakt",

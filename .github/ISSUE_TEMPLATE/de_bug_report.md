@@ -1,6 +1,6 @@
 ---
 name: "🐞 Bug Report deutsch"
-about: "Melde einen Fehler oder ein unerwartetes Verhalten in StockEase"
+about: "Melde einen Fehler oder ein unerwartetes Verhalten in nim-tec"
 title: "🐞 [Bug]: "
 labels: ["bug"]
 assignees: []
@@ -8,7 +8,7 @@ assignees: []
 
 # 🐞 Bug Report
 
-Danke, dass du uns hilfst, **StockEase** besser zu machen!
+Danke, dass du uns hilfst, **nim-tec** besser zu machen!
 Bitte fülle das folgende Formular möglichst genau aus, damit wir den Fehler schnell verstehen und beheben können.
 
 ---
@@ -42,7 +42,7 @@ Bitte fülle das folgende Formular möglichst genau aus, damit wir den Fehler sc
 
 - **Betriebssystem** (Windows, macOS, Linux, etc.):  
 - **Browser & Version** (Chrome, Firefox, Safari, etc.):  
-- **Version von StockEase** (falls bekannt):  
+- **Version von nim-tec** (falls bekannt):  
 - **Weitere technische Details**:  
   <!-- Z.B. relevante Plugins, Framework-Versionen oder Server-Umgebung -->
 

@@ -1,6 +1,6 @@
 ---
 name: "🚀 Feature Request deutsch"
-about: "Schlage ein neues Feature oder eine Erweiterung für StockEase vor"
+about: "Schlage ein neues Feature oder eine Erweiterung für nim-tec vor"
 title: "🚀 [Feature Request]: "
 labels: ["enhancement"]
 assignees: []
@@ -8,7 +8,7 @@ assignees: []
 
 # 🚀 Feature Request
 
-Danke, dass du ein Feature für **StockEase** vorschlägst!
+Danke, dass du ein Feature für **nim-tec** vorschlägst!
 Bitte fülle das Formular so genau wie möglich aus.
 
 ---

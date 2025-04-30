@@ -1,6 +1,6 @@
 ---
 name: "🚀 Feature Request"
-about: "Suggest a new feature or enhancement for StockEase"
+about: "Suggest a new feature or enhancement for nim-tec"
 title: "🚀 [Feature Request]: "
 labels: ["enhancement"]
 assignees: []
@@ -8,7 +8,7 @@ assignees: []
 
 # 🚀 Feature Request
 
-Thank you for suggesting a feature for **StockEase**!
+Thank you for suggesting a feature for **nim-tec**!
 Please fill out the sections below as thoroughly as possible.
 
 ---

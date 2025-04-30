@@ -8,7 +8,7 @@ assignees: []
 
 # ⚙️ Technical Task
 
-This issue focuses on **technical aspects** and code implementations in StockEase.
+This issue focuses on **technical aspects** and code implementations in nim-tec.
 
 ---
 
@@ -48,4 +48,4 @@ This issue focuses on **technical aspects** and code implementations in StockEas
 ## 💡 Additional Notes
 <!-- Include any extra information, documentation links, or API details here -->
 
-**Thank you for contributing to StockEase!**
+**Thank you for contributing to nim-tec!**
